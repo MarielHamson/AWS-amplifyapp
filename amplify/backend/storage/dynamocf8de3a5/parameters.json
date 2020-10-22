@@ -1,0 +1,5 @@
+{
+    "tableName": "dynamocf8de3a5",
+    "partitionKeyName": "restroom_location",
+    "partitionKeyType": "S"
+}
